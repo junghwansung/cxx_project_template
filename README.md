@@ -74,7 +74,7 @@ copier copy gh:ramse1163/cxx_project_template <새_프로젝트_경로>
 | `namespace_name` | C++ 네임스페이스 이름 (짧게 변경 가능) | project_slug와 동일 |
 | `author_name` | 개발자 또는 팀 이름 | `Your Name` |
 | `copyright_year` | 저작권 연도 | `2026` |
-| `license` | SPDX 기반 라이선스 선택 | `MIT` |
+| `license` | SPDX 기반 라이선스 선택 | `MIT OR Apache-2.0` |
 | `cpp_standard` | C++ 표준 | `20` |
 | `use_ninja` | Ninja 빌드 시스템 사용 여부 | `true` |
 | `compiler` | 컴파일러 선택 (`gcc` / `clang`) | `gcc` |
